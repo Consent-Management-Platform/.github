@@ -22,10 +22,11 @@ Benefits:
 ## Project resources
 
 Consent Management Platform design:
-* Main design doc: https://docs.google.com/document/d/1z-e3ybppuJMujcLjY8FOCvQ2yB4HrFdymSMctr17kBY/edit?usp=sharing
+* High-level design doc: https://docs.google.com/document/d/1z-e3ybppuJMujcLjY8FOCvQ2yB4HrFdymSMctr17kBY/edit?usp=sharing
+* Design artifacts: https://github.com/Consent-Management-Platform/consent-management-design
 
 Consent Management API resources:
 * API documentation: https://consent-management-platform.github.io/consent-management-api-models/v1/docs.html
 * API models: https://github.com/Consent-Management-Platform/consent-management-api-models
 * API service code: https://github.com/Consent-Management-Platform/consent-management-api
-* API infrastructure: coming soon
+* API infrastructure: https://github.com/Consent-Management-Platform/consent-management-api-cdk
