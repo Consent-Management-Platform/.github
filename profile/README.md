@@ -30,3 +30,6 @@ Consent Management API resources:
 * API models: https://github.com/Consent-Management-Platform/consent-management-api-models
 * API service code: https://github.com/Consent-Management-Platform/consent-management-api
 * API infrastructure: https://github.com/Consent-Management-Platform/consent-management-api-cdk
+
+Consent History resources:
+* Consent history ingestor service code: https://github.com/Consent-Management-Platform/consent-history-ingestor
