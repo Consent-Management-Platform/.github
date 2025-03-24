@@ -25,11 +25,16 @@ Consent Management Platform design:
 * High-level design doc: https://docs.google.com/document/d/1z-e3ybppuJMujcLjY8FOCvQ2yB4HrFdymSMctr17kBY/edit?usp=sharing
 * Design artifacts: https://github.com/Consent-Management-Platform/consent-management-design
 
+AWS infrastructure resources:
+* CDK package defining infrastructure as code: https://github.com/Consent-Management-Platform/consent-management-api-cdk
+
 Consent Management API resources:
 * API documentation: https://consent-management-platform.github.io/consent-management-api-models/v1/docs.html
 * API models: https://github.com/Consent-Management-Platform/consent-management-api-models
 * API service code: https://github.com/Consent-Management-Platform/consent-management-api
-* API infrastructure: https://github.com/Consent-Management-Platform/consent-management-api-cdk
 
 Consent History resources:
-* Consent history ingestor service code: https://github.com/Consent-Management-Platform/consent-history-ingestor
+* API documentation: https://consent-management-platform.github.io/consent-history-api-models/v1/docs.html
+* API models: https://github.com/Consent-Management-Platform/consent-history-api-models
+* API service code (will provide API clients read access to consent history): TODO
+* Consent history ingestor service code (automatically syncs consent changes to consent history DB): https://github.com/Consent-Management-Platform/consent-history-ingestor
