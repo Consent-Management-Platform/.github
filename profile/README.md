@@ -36,5 +36,5 @@ Consent Management API resources:
 Consent History resources:
 * API documentation: https://consent-management-platform.github.io/consent-history-api-models/v1/docs.html
 * API models: https://github.com/Consent-Management-Platform/consent-history-api-models
-* API service code (will provide API clients read access to consent history): TODO
+* API service code: https://github.com/Consent-Management-Platform/consent-history-api
 * Consent history ingestor service code (automatically syncs consent changes to consent history DB): https://github.com/Consent-Management-Platform/consent-history-ingestor
