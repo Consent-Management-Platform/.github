@@ -38,3 +38,6 @@ Consent History resources:
 * API models: https://github.com/Consent-Management-Platform/consent-history-api-models
 * API service code: https://github.com/Consent-Management-Platform/consent-history-api
 * Consent history ingestor service code (automatically syncs consent changes to consent history DB): https://github.com/Consent-Management-Platform/consent-history-ingestor
+
+Consent Auto Expiry resources:
+* Consent expiry processor service code: https://github.com/Consent-Management-Platform/consent-expiry-processor
